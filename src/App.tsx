@@ -6,7 +6,7 @@ function App() {
     <div className="min-h-screen bg-[#5ce1e6] flex flex-col items-center">
       {/* Buy Button */}
       <a 
-        href="https://pump.fun" 
+        href="https://pump.fun/coin/zdMkZJgjff5GJ2BLLLSQmRzSq1Ca56DczGpN88Epump" 
         target="_blank" 
         rel="noopener noreferrer" 
         className="mt-6 bg-white hover:bg-gray-100 text-black text-xl font-bold py-4 px-12 rounded-full shadow-lg transition-transform hover:scale-105 inline-block"
